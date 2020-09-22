@@ -5,6 +5,9 @@ import factory.simplefactory.*;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 工厂方法
+ */
 public class RuleConfigPaserMap {
     private static final Map<String, IRuleConfigParserFactory> cachedFactories = new HashMap<>();
 
