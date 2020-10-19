@@ -1,4 +1,4 @@
-package behavior_template;
+package behavior_template.template;
 
 public class ConcreteClass1 extends AbstractClass {
     @Override
