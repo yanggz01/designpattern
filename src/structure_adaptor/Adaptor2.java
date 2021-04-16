@@ -4,6 +4,7 @@ package structure_adaptor;
  * 对象适配器，基于组合
  */
 public class Adaptor2 implements ITarget {
+
     private Adaptee adaptee;
 
     public Adaptor2(Adaptee adaptee) {

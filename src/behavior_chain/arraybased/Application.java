@@ -1,5 +1,6 @@
 package behavior_chain.arraybased;
 
+
 // 使用举例
 public class Application {
     public static void main(String[] args) {

@@ -1,6 +1,7 @@
 package structure_bridge;
 
 public class SevereNotification extends Notification {
+
     public SevereNotification(MsgSender msgSender) {
         super(msgSender);
     }

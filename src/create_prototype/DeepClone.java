@@ -1,4 +1,4 @@
-package structure_prototype;
+package create_prototype;
 
 import java.io.*;
 

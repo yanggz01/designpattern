@@ -10,4 +10,8 @@ public enum SingleEnum {
     public int getId() {
         return -1;
     }
+
+    public static SingleEnum getInstance() {
+        return INSTANCE;
+    }
 }

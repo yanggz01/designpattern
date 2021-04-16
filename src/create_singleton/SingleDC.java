@@ -5,7 +5,7 @@ package create_singleton;
  */
 public class SingleDC {
 
-    private static SingleDC singleDC;
+    private volatile static SingleDC singleDC;
 
     private SingleDC(){}
 

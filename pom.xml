@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ifeng.cpdt</groupId>
-    <artifactId>instruction</artifactId>
+    <artifactId>designpattern</artifactId>
     <version>1.0.0</version>
-    <name>instruction</name>
-    <description>Instruction management</description>
+    <name>designpattern</name>
+    <description>designpattern</description>
 
     <properties>
         <java.version>1.8</java.version>
